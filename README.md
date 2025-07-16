@@ -8,4 +8,7 @@ After 2 years of attempting to be a animating YouTuber, I finally achieved it in
 [About Us](https://sone890pik.github.io/animatorsunite/about.html)
 
 
+[My Journey](https://sone890pik.github.io/animatorsunite/mission.html)
+
+
 [YouTube](https://www.youtube.com/@SemiAnimates)
