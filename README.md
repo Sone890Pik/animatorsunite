@@ -13,5 +13,4 @@ After 2 years of attempting to be a animating YouTuber, I finally achieved it in
 
 
 [YouTube](https://www.youtube.com/@SemiAnimates)
-
-<meta name="google-site-verification" content="7Xu4zlLjCSjJaXE-A1lxHDoSwiTfq4pGy-0yWXRgs0g" />
+google-site-verification: googlee4e314931c28cbd9.html
