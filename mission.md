@@ -5,3 +5,14 @@ I started out as a YouTuber in 2019. I was about 8 and I was using my dad's devi
  
  ~SemiAnimates
  
+
+[Discord](https://discord.gg/7BA45jAX)
+
+
+[About Us](https://sone890pik.github.io/animatorsunite/about.html)
+
+
+[My Journey](https://sone890pik.github.io/animatorsunite/mission.html)
+
+
+[YouTube](https://www.youtube.com/@SemiAnimates)
