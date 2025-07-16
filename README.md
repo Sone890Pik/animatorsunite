@@ -1,7 +1,3 @@
----
-title: "Animators Unite"
-description: "Sharing animation journeys, resources, and experiences. Join our Discord community!"
----
 
 [<img src="assets/AU 4.png" alt="Site Logo" height="100">](https://sone890pik.github.io/animatorsunite/)
 
