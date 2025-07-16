@@ -1,6 +1,10 @@
 [<img src="assets/AU 4.png" alt="Site Logo" height="200">](https://sone890pik.github.io/animatorsunite/)
-# Animators Unite
-After 2 years of attempting to be a animating YouTuber, I finally achieved it in late 2024. I want to be able to share my experiences with you guys just like you guys should too. Click on our Discord page below to share your experiences, your stories, your videos or just hang out.
+---
+title: "Animators Unite"
+description: "Sharing animation journeys, resources, and experiences. Join our Discord community!"
+---
+
+
 
 
 [Discord](https://discord.gg/7BA45jAX)
@@ -13,4 +17,4 @@ After 2 years of attempting to be a animating YouTuber, I finally achieved it in
 
 
 [YouTube](https://www.youtube.com/@SemiAnimates)
-google-site-verification: googlee4e314931c28cbd9.html
+
